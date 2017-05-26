@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Jan 12 18:36:53 2017
+
+@author: andre
+"""
+
 import re
 from pprint import pprint 
 
